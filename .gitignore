@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Virtual Environments
+env/
+venv/
+ENV/
+*.env
+.venv/
+
+# Jupyter & Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.colab/
+
+# Datasets and Outputs
+datasets/
+outputs/
+models/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+*.out
+logs/
+
+# VSCode or IDE
+.vscode/
+.idea/
+
+# Token files
+tokenizer_config.json
+tokenizer.json
+*.tfrecord
+
