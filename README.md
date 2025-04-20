@@ -106,11 +106,17 @@ scikit-learn, matplotlib, tqdm
 💻 Deploy as an interactive web app
 
 ### 🧑‍🎨 Creator
-Sajid Tamboli 
-LinkedIn • GitHub • Portfolio
+
+**Sajid Tamboli**  
+[LinkedIn]([https://www.linkedin.com/in/sajid-tamboli](https://www.linkedin.com/in/sajid-tamboli-b505022a8)) • [GitHub](https://github.com/Sajiiidddd) 
+
+---
 
 ### 📄 License
-This project is licensed under the MIT License.
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for more details.
+
 
 
 
